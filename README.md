@@ -8,7 +8,7 @@ This project focuses on performing Exploratory Data Analysis (EDA) and feature e
 
 ## Dataset Overview
 
-The dataset used is `Flight_Price_Prediction_EDA.ipynb`, which contains details about flight bookings such as airline, journey date, source, destination, timings, total stops, additional information, and the final ticket price (target variable). Public versions of this dataset typically contain 10k+ rows and 10–12 columns, which is sufficient for both EDA and baseline predictive modeling.
+The dataset used is `Flight_Price_Prediction_EDA.xlsx`, which contains details about flight bookings such as airline, journey date, source, destination, timings, total stops, additional information, and the final ticket price (target variable). Public versions of this dataset typically contain 10k+ rows and 10–12 columns, which is sufficient for both EDA and baseline predictive modeling.
 
 **Initial Dataset Dimensions**
 
